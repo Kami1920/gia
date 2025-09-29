@@ -7,7 +7,7 @@
     "domain": "gaia.domains",
     "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.1f16.gguf",
     "embedding_collection_name": "default",
-    "embedding_ctx_size": "8192",
+    "embedding_ctx_size": "81192",
     "embedding_batch_size": "8192",
     "llamaedge_port": "8080",
     "llamaedge_chat_port": "9068",
