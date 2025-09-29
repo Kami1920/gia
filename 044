@@ -5,7 +5,7 @@
     "chat_batch_size": "32",
     "description": "This GaiaNet node config with a Qwen2 0.5B1 model.",
     "domain": "gaia.domains",
-    "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+    "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.1f16.gguf",
     "embedding_collection_name": "default",
     "embedding_ctx_size": "8192",
     "embedding_batch_size": "8192",
