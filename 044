@@ -19,5 +19,5 @@
     "system_prompt": "You are a helpful, respectful, and honest assistant. Always answer accurately, while being safe.",
     "rag_policy": "system-message",
     "qdrant_limit": "1",
-    "qdrant_score_threshold": "0.5"
+    "qdrant_score_threshold": "0.5"0
   }
